@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://priyanshu-00007.github.io/portfoliio/](https://priyanshu-00007.github.io/portfoliio/)
 
-- 💬 Ask me about **html , c.s.s ,js**
+- 💬 Ask me about ** HTLM , C.S.S , JS , Java, python **
 
-- 📫 How to reach me **bs9045201@gmail.com**
+- 📫 How to reach me **priyanshusharma58827@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1kiX78wYnPnkv5AJFglSphokBdsfit11B](https://drive.google.com/drive/folders/1kiX78wYnPnkv5AJFglSphokBdsfit11B)
 
