@@ -1,4 +1,4 @@
-![logo](https://github.com/priyanshu-00007/priyanshu-00007/blob/main/unnamed.png)
+![logo]()
 <h1 align="center">Hi 👋, I'm Priyanshu Sharma</h1>
 <img align="right" alt="coding" width="400" src="https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fcamo.githubusercontent.com%2F4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439%2F68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966&sp=1758726972T14aa6d3be2b5102afa92db03799e1b9538eec0a53fd15d69f298eaef85e115ab">
 <h3 align="center">A passionate frontend developer from India</h3>
