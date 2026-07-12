@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://priyanshu-00007.github.io/portfoliio/](https://priyanshu-00007.github.io/portfoliio/)
 
-- 💬 Ask me about ** HTLM , C.S.S , JS , Java, python **
+- 💬 Ask me about * HTLM , C.S.S  , Java, python , NumPy , Pandas *
 
 - 📫 How to reach me **priyanshusharma58827@gmail.com**
 
